@@ -188,5 +188,5 @@
 
 <!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/sanidhyy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Sasmita2004?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
