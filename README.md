@@ -7,8 +7,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sasmita!;&center=true&size=30">
   </a>
 </h1>
-
 <br />
+
+<p align="center">
+  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+</p>
+
 <!-- about me -->
 <p align="center">
   Hi, I'm Sasmita Sahoo, AI and ML engineer 💻,  Learner 👩‍💻 &  player with data 👩‍🏫 from India 🇮🇳.
